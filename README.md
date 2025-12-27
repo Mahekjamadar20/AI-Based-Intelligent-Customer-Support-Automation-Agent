@@ -7,18 +7,14 @@ Fully runnable in Google Colab.
 
 This project automates common customer support queries such as order tracking, pricing, refunds, and business hours using an AI agent with decision-making logic.
 
-** Objectives
-**
+bjectives
 Understand how AI agents work
-
 Build a working AI agent using Python
-
 Demonstrate user interactivity and automation
-
 Apply AI to a real-world business use case
 
- How the AI Agent Works
-User Input → Intent Detection → Decision Engine → Tool Execution → Response
+** How the AI Agent Works
+User Input → Intent Detection → Decision Engine → Tool Execution → Response**
 
 ** Features**
 
@@ -54,8 +50,8 @@ Price 2000 discount 15%
 Refund policy
 I want to raise a complaint
 help
-
- Use Cases
+**
+ Use Cases**
 
 Customer support automation
 Business helpdesk systems
