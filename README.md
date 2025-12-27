@@ -7,7 +7,7 @@ Fully runnable in Google Colab.
 
 This project automates common customer support queries such as order tracking, pricing, refunds, and business hours using an AI agent with decision-making logic.
 
-bjectives
+Objectives
 Understand how AI agents work
 Build a working AI agent using Python
 Demonstrate user interactivity and automation
