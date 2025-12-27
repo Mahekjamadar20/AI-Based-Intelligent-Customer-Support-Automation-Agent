@@ -27,9 +27,8 @@ Pricing and discount calculation
 Complaint ticket generation
 
 Date & time awareness
-**
- Tech Stack**
 
+ Tech Stack**
 Language: Python
 
 Platform: Google Colab
@@ -50,7 +49,7 @@ Price 2000 discount 15%
 Refund policy
 I want to raise a complaint
 help
-**
+
  Use Cases**
 
 Customer support automation
