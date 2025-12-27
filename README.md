@@ -3,12 +3,12 @@
 An AI-powered customer support agent built using Python that demonstrates AI agent architecture, automation, and real-world business problem solving.
 Fully runnable in Google Colab.
 
- Overview
+ **Overview**
 
 This project automates common customer support queries such as order tracking, pricing, refunds, and business hours using an AI agent with decision-making logic.
 
- Objectives
-
+** Objectives
+**
 Understand how AI agents work
 
 Build a working AI agent using Python
@@ -20,7 +20,7 @@ Apply AI to a real-world business use case
  How the AI Agent Works
 User Input → Intent Detection → Decision Engine → Tool Execution → Response
 
- Features
+** Features**
 
 Interactive text-based chat
 
@@ -31,8 +31,8 @@ Pricing and discount calculation
 Complaint ticket generation
 
 Date & time awareness
-
- Tech Stack
+**
+ Tech Stack**
 
 Language: Python
 
@@ -40,7 +40,7 @@ Platform: Google Colab
 
 Libraries: datetime, re, random
 
- How to Run
+ **How to Run**
 
 Open Google Colab
 
